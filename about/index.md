@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: About Me
+tags: [about, resume, cv, career]
+date: 2016-10-19
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://nidhalios.github.io/Moon"><b>Nidhal Satouri</b></a> is Analytics Specialist | Software Engineer | Fulbright Alumnus</center>
 
 ## Features
 * Minimal, you can focus on your content
