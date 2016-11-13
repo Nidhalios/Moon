@@ -12,11 +12,11 @@ comments: false
 <h3 style="text-align:center">ANALYTICS SPECIALIST | SOFTWARE ENGINEER | FULBRIGHT ALUMNUS</h3>
 <hr>
 <p style="text-align:center">
-<i>+216 50 795 883</i> | <i>satouri.nidhal@gmail.com</i>
+<i>(+216) 50 795 883</i> | <i>satouri.nidhal@gmail.com</i><br>
+<a href="{{ site.url }}/assets/resume.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>Download PDF</a>
 </p>
 
-### EDUCATION 
-
+<h3><i class="fa fa-graduation-cap" aria-hidden="true">&nbsp;&nbsp;&nbsp;EDUCATION</i></h3>
 * __Bowling Green State University (BGSU)__ `Aug 2015 – Aug 2016`<br/>
 *Bowling Green, OH - USA*<br/>
 Master of Science, Analytics [GPA: 4/4]<br/>
@@ -27,14 +27,14 @@ Scholarship: Fulbright Foreign Student Program<br/>
 National Engineering Diploma, Software Engineering [GPA: 3.65/4]<br/>
 Minor: Management of Information Systems<br/>
 
-### SKILLS 
+<h3><i class="fa fa-cogs" aria-hidden="true">&nbsp;&nbsp;&nbsp;SKILLS</i></h3>  
 * __Analytics:__ R, Python, SQL, Excel, SAS-EMiner, Tableau
 * __Big Data:__ Hadoop (MapReduce), Spark, Impala, Hive, Cassandra, AWS, Talend (DI/ESB)
 * __Programming languages:__ Java, C++, Objective-C
 * __Mobile/Web:__ iOS, PHP, JavaScript, J2EE, .NET
 * __Languages:__ Arabic[Native], English[Fluent], French[Fluent], German[Basic]
 
-### RELEVANT PROJECTS
+<h3><i class="fa fa-diamond" aria-hidden="true">&nbsp;&nbsp;&nbsp;RELEVANT PROJECTS</i></h3>
 * __Analytics Research Project – BGSU__ `Sep 2015 – Apr 2016`<br/>
     * Led exploratory data analysis on 2 Parkinson's tele-monitoring (dysphonia) datasets using R 
     * Implemented and optimized predictive models like Logistic Regression, Decision Tree, Gradient Boosting and Neural Networks to  simplify Parkinson's diagnosis using SAS-EMiner
@@ -50,7 +50,7 @@ Minor: Management of Information Systems<br/>
     * Run statistical analysis, predicted the probability of an accident given the city section characteristics and generated Association Rules about co-occurring factors leading to accidents
     * Visualized the insights in Tableau and delivered recommendations for a better safety plan     
 
-### WORK EXPERIENCE 
+<h3><i class="fa fa-briefcase" aria-hidden="true">&nbsp;&nbsp;&nbsp;WORK EXPERIENCE</i></h3>
 * <a href="https://www.bulldozerinc.com/?lang=en" target="_blank" style="text-decoration:none">__BULLDOZER Inc__ </a> `Feb 2015 – May 2015`<br/>
 *Web Development Intern*<br/>
 *Tunis, Tunisia*<br/>
@@ -67,12 +67,12 @@ Minor: Management of Information Systems<br/>
 *Djerba, Tunisia*
     * Built an m-commerce iOS app for a retail client providing the main following functionalities: products catalogue, user account setting, cart management, and payment
 
-### CERTIFICATIONS
+<h3><i class="fa fa-certificate" aria-hidden="true">&nbsp;&nbsp;&nbsp;CERTIFICATIONS</i></h3>
 * Python for Data Science – *DataCamp* `Aug 2016`                 
 * Big Data on Amazon Web Service Quest – *qwikLABS Inc.* `Mar 2016` 
 * Microsoft Technology Associate: Database Administration Fundamentals - *Microsoft* `Jun 2011`	
 
-### PROFESSIONAL ORGANIZATIONS & VOLUNTEERING
+<h3><i class="fa fa-users" aria-hidden="true">&nbsp;&nbsp;&nbsp;PROFESSIONAL ORGANIZATIONS & VOLUNTEERING</i></h3>
 * __Netlinks CluB - INSAT__ `Jan 2012 – Sep 2014`<br/>
 *Technical team member, iOS trainer and event organizer*<br/>
 *Tunis, Tunisia*
@@ -80,6 +80,3 @@ Minor: Management of Information Systems<br/>
 * __Tunisian Red Crescent__ `Sep 2012 – Feb 2015`<br/>
 *Certified First-Aider*<br/>
 *Ariana, Tunisia*
-
-
-
