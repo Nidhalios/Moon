@@ -63,8 +63,8 @@ Minor: Management of Information Systems<br/>
     * Led the development of a social all-in-one mobile app (Selfie Maker) offering advanced features like Voice Recognition, Face Detection, and Photo Customization
 	
 * <a href="http://flag-engineering.com" target="_blank" style="text-decoration:none">__FLAG ENGINEERING__ </a> `Jun 2013 – Aug 2013`<br/>
-*Mobile Development Intern* 
-*Djerba, Tunisia*
+*Mobile Development Intern*<br/>
+*Djerba, Tunisia*<br/>
     * Built an m-commerce iOS app for a retail client providing the main following functionalities: products catalogue, user account setting, cart management, and payment
 
 <h3><i class="fa fa-certificate" aria-hidden="true">&nbsp;&nbsp;&nbsp;CERTIFICATIONS</i></h3>
