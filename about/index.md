@@ -12,7 +12,7 @@ comments: false
 <h3 style="text-align:center">ANALYTICS SPECIALIST | SOFTWARE ENGINEER | FULBRIGHT ALUMNUS</h3>
 <hr>
 <p style="text-align:center">
-<i>(+216) 50 795 883</i> | <i>satouri.nidhal@gmail.com</i><br>
+<i class="fa fa-phone-square" aria-hidden="true">&nbsp;+216 50 795 883</i> | <i class="fa fa-envelope" aria-hidden="true">&nbsp;satouri.nidhal@gmail.com</i><br>
 <a href="{{ site.url }}/assets/resume.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>Download PDF</a>
 </p>
 
@@ -27,12 +27,16 @@ Scholarship: Fulbright Foreign Student Program<br/>
 National Engineering Diploma, Software Engineering [GPA: 3.65/4]<br/>
 Minor: Management of Information Systems<br/>
 
-<h3><i class="fa fa-cogs" aria-hidden="true">&nbsp;&nbsp;&nbsp;SKILLS</i></h3>  
-* __Analytics:__ R, Python, SQL, Excel, SAS-EMiner, Tableau
-* __Big Data:__ Hadoop (MapReduce), Spark, Impala, Hive, Cassandra, AWS, Talend (DI/ESB)
-* __Programming languages:__ Java, C++, Objective-C
-* __Mobile/Web:__ iOS, PHP, JavaScript, J2EE, .NET
-* __Languages:__ Arabic[Native], English[Fluent], French[Fluent], German[Basic]
+<h3><i class="fa fa-cogs" aria-hidden="true">&nbsp;&nbsp;&nbsp;SKILLS</i></h3>
+* __METHODS & CONCEPTS__
+    * __Programming:__ Algorithms, OOP, Design Patterns, Continuous Integration, SCRUM 
+    * __Analytics:__ Data Modeling, ETL, Predictive Modeling, Statistical Analysis, Time Series Analysis, Association Rules, A/B Testing, Hypothesis Testing
+    
+* __SOFTWARE TECHNOLOGIES__
+    * __Programming:__ Python, R, SQL, Java, C++, Shell Script, Git
+    * __Big Data:__ Hadoop (MapReduce), Spark, Impala, Hive, Cassandra, AWS
+    * __Analytics:__ MS Excel, SAS-EMiner, Tableau, Talend (DI/ESB)
+    * __Mobile/Web:__ iOS, PHP, JavaScript, J2EE, .NET
 
 <h3><i class="fa fa-diamond" aria-hidden="true">&nbsp;&nbsp;&nbsp;RELEVANT PROJECTS</i></h3>
 * __Analytics Research Project – BGSU__ `Sep 2015 – Apr 2016`<br/>
@@ -43,7 +47,7 @@ Minor: Management of Information Systems<br/>
 * __Big Data Project – BGSU__ `Mar 2016 – Apr 2016`<br/>
     * Cleansed 40 years worth of data (15 billion observations) from the US National Climatic Data Center on Cloudera CDH 5.5
     * Automated the data retrieval, consolidation and loading into Hive Metastore and HDFS (Hadoop) using a shell script
-    * Coded SQL queries in Impala and built Linear Regression and Time Series models in Python (numpy, pandas, scipy, matplotlib, statsmodel, impyla) 
+    * Coded SQL queries in Impala and built Linear Regression and Time Series models in Python using the following libraries: numpy, pandas, scipy, matplotlib, statsmodel, impyla
 
 * __Data Mining Project – BGSU__ `Mar 2016 – Apr 2016`<br/>
     * Cleaned and transformed 10 years of road accidents’ data from the Transportation Safety Board of Nebraska using SAS-EMiner and Excel
@@ -56,27 +60,43 @@ Minor: Management of Information Systems<br/>
 *Tunis, Tunisia*<br/>
     * Implemented the backend of a professional social network dedicated to the fashion industry 
     * Architected and built a RESTful API that will be consumed by back-office and mobile applications
+    * Learned and practiced the SCRUM agile method
             
 * <a href="https://www.orange.tn" target="_blank" style="text-decoration:none">__ORANGE__ </a> `Jul 2014 – Aug 2014`<br/>
 *Mobile Development Intern*<br/>
 *Tunis, Tunisia*<br/>
-    * Led the development of a social all-in-one mobile app (Selfie Maker) offering advanced features like Voice Recognition, Face Detection, and Photo Customization
+    * Performed a market research on photo editing and sharing mobile apps
+    * Led the development of a social all-in-one iOS app (Selfie Maker) offering advanced features like Voice Recognition, Face Detection, and Photo Editing
+    * Contributed to the launching campaign by building the landing page, and helped in shooting a promotional video
 	
 * <a href="http://flag-engineering.com" target="_blank" style="text-decoration:none">__FLAG ENGINEERING__ </a> `Jun 2013 – Aug 2013`<br/>
 *Mobile Development Intern*<br/>
 *Djerba, Tunisia*<br/>
     * Built an m-commerce iOS app for a retail client providing the main following functionalities: products catalogue, user account setting, cart management, and payment
+    * Created a set of PHP/MySQL web services
 
-<h3><i class="fa fa-certificate" aria-hidden="true">&nbsp;&nbsp;&nbsp;CERTIFICATIONS</i></h3>
-* Python for Data Science – *DataCamp* `Aug 2016`                 
-* Big Data on Amazon Web Service Quest – *qwikLABS Inc.* `Mar 2016` 
-* Microsoft Technology Associate: Database Administration Fundamentals - *Microsoft* `Jun 2011`	
+<h3><i class="fa fa-lightbulb-o" aria-hidden="true">&nbsp;&nbsp;&nbsp;PROFESSIONAL DEVELOPMENT</i></h3>
+* Python for Data Science – *DataCamp* [MOOC] `Aug 2016`                 
+* Big Data on Amazon Web Service Quest – *QwikLabs* [MOOC] `Mar 2016` 
+* SAS Analytics Conference (Las Vegas, USA) `Oct 2015`              
+* Microsoft Technology Associate: Database Administration Fundamentals - *Microsoft* [Certification] `Jun 2011`	
 
-<h3><i class="fa fa-users" aria-hidden="true">&nbsp;&nbsp;&nbsp;PROFESSIONAL ORGANIZATIONS & VOLUNTEERING</i></h3>
+<h3><i class="fa fa-users" aria-hidden="true">&nbsp;&nbsp;&nbsp;VOLUNTEER EXPERIENCE</i></h3>
 * __Netlinks CluB - INSAT__ `Jan 2012 – Sep 2014`<br/>
-*Technical team member, iOS trainer and event organizer*<br/>
-*Tunis, Tunisia*
+*Technical team member*<br/>
+*Tunis, Tunisia*<br/>
+    * Led iOS development trainings and projects
+    * Participated in organizing national technology events (NetlinksDay 2012,2013 and 2014) 
 
 * __Tunisian Red Crescent__ `Sep 2012 – Feb 2015`<br/>
-*Certified First-Aider*<br/>
-*Ariana, Tunisia*
+*Volunteer and First-Aider*<br/>
+*Ariana, Tunisia*<br/>
+    * Helped in collecting donations for deprived families
+    * Participated in road safety campaigns 
+
+<h3><i class="fa fa-comments-o" aria-hidden="true">&nbsp;&nbsp;&nbsp;LANGUAGES</i></h3>
+English(Fluent), French(Fluent), Arabic(Native), German(Basic)
+
+<h3><i class="fa fa-coffee" aria-hidden="true">&nbsp;&nbsp;&nbsp;INTERESTS</i></h3>
+Coding & Data Science challenges, Computer Games, Graphic Design, Soccer, Basketball, Hiking
+
