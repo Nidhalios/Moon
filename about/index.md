@@ -73,7 +73,8 @@ Minor: Management of Information Systems<br/>
 *Mobile Development Intern*<br/>
 *Djerba, Tunisia*<br/>
     * Built an m-commerce iOS app for a retail client providing the main following functionalities: products catalogue, user account setting, cart management, and payment
-    * Created a set of PHP/MySQL web services
+    * Created a set of PHP/MySQL web services <br/>
+<a href="{{ site.url }}{% post_url 2013-08-31-Koinkoo-post %}" class="btn zoombtn">Read More</a>
 
 <h3><i class="fa fa-lightbulb-o" aria-hidden="true">&nbsp;&nbsp;&nbsp;PROFESSIONAL DEVELOPMENT</i></h3>
 * Python for Data Science – *DataCamp* [MOOC] `Aug 2016`                 
