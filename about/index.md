@@ -13,7 +13,7 @@ comments: false
 <hr>
 <p style="text-align:center">
 <i class="fa fa-phone-square" aria-hidden="true">&nbsp;+216 50 795 883</i> | <i class="fa fa-envelope" aria-hidden="true">&nbsp;satouri.nidhal@gmail.com</i><br>
-<a href="{{ site.url }}/assets/resume.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>Download PDF</a>
+<a href="{{ site.url }}/assets/resume.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>&nbsp;Download PDF</a>
 </p>
 
 <h3><i class="fa fa-graduation-cap" aria-hidden="true">&nbsp;&nbsp;&nbsp;EDUCATION</i></h3>
@@ -60,14 +60,16 @@ Minor: Management of Information Systems<br/>
 *Tunis, Tunisia*<br/>
     * Implemented the backend of a professional social network dedicated to the fashion industry 
     * Architected and built a RESTful API that will be consumed by back-office and mobile applications
-    * Learned and practiced the SCRUM agile method
+    * Learned and practiced the SCRUM agile method<br/>
+<a href="{{ site.url }}{% post_url 2015-05-31-ThimbleFashion-post %}" class="btn zoombtn">Read More</a>
             
 * <a href="https://www.orange.tn" target="_blank" style="text-decoration:none">__ORANGE__ </a> `Jul 2014 – Aug 2014`<br/>
 *Mobile Development Intern*<br/>
 *Tunis, Tunisia*<br/>
     * Performed a market research on photo editing and sharing mobile apps
     * Led the development of a social all-in-one iOS app (Selfie Maker) offering advanced features like Voice Recognition, Face Detection, and Photo Editing
-    * Contributed to the launching campaign by building the landing page, and helped in shooting a promotional video
+    * Contributed to the launching campaign by building the landing page, and helped in shooting a promotional video<br/>
+<a href="{{ site.url }}{% post_url 2014-08-31-SelfieMaker-post %}" class="btn zoombtn">Read More</a>
 	
 * <a href="http://flag-engineering.com" target="_blank" style="text-decoration:none">__FLAG ENGINEERING__ </a> `Jun 2013 – Aug 2013`<br/>
 *Mobile Development Intern*<br/>
