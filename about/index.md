@@ -9,22 +9,22 @@ comments: false
 <img src="{{ site.url }}/{{ site.author_photo }}" alt="{{ site.title }} photo" style="text-align:center" class="img-circle animated rotateIn" style='border:6px solid #c0c0c0'>
 <h1 style="text-align:center">NIDHAL SATOURI</h1>
 <hr>
-<h3 style="text-align:center">ANALYTICS SPECIALIST | SOFTWARE ENGINEER | FULBRIGHT ALUMNUS</h3>
+<h3 style="text-align:center">DATA SCIENTIST | SOFTWARE ENGINEER | FULBRIGHT ALUMNUS</h3>
 <hr>
 <p style="text-align:center">
-<i class="fa fa-phone-square" aria-hidden="true">&nbsp;+216 50 795 883</i> | <i class="fa fa-envelope" aria-hidden="true">&nbsp;satouri.nidhal@gmail.com</i><br>
-<a href="{{ site.url }}/assets/resume.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>&nbsp;Download PDF</a>
+<i class="fa fa-phone-square" aria-hidden="true">&nbsp;+33 771 152 264</i> | <i class="fa fa-envelope" aria-hidden="true">&nbsp;satouri.nidhal@gmail.com</i><br>
+<!--<a href="{{ site.url }}/assets/resume.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>&nbsp;Download PDF</a>-->
 </p>
 
 <h3><i class="fa fa-graduation-cap" aria-hidden="true">&nbsp;&nbsp;&nbsp;EDUCATION</i></h3>
 * __Bowling Green State University (BGSU)__ `Aug 2015 – Aug 2016`<br/>
 *Bowling Green, OH - USA*<br/>
-Master of Science, Analytics [GPA: 4/4]<br/>
+Master of Science, Analytics [cumGPA: 4/4]<br/>
 Scholarship: Fulbright Foreign Student Program<br/>
 
 * __National Institute of Applied Science and Technology (INSAT)__  `Sep 2010 – Jun 2015`<br/>
 *Tunis, Tunisia*<br/>
-National Engineering Diploma, Software Engineering [GPA: 3.65/4]<br/>
+National Engineering Diploma, Software Engineering [cumGPA: 3.65/4]<br/>
 Minor: Management of Information Systems<br/>
 
 <h3><i class="fa fa-cogs" aria-hidden="true">&nbsp;&nbsp;&nbsp;SKILLS</i></h3>
