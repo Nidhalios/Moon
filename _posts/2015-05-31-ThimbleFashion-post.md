@@ -16,8 +16,6 @@ comments: false
 
 I had the chance to participate in the design, implementation and test of the first professional social network dedicated to the fashion industry entitled "Thimble Fashion". My mission was to implement the backend and the web application of the network using [Laravel](https://laravel.com) PHP framework. I architected and built also a RESTful API that will be consumed by back-office and mobile applications. I managed to learn and practice the SCRUM agile method as an iterative and incremental approach to fullfil the project goals and requirements. I detailed the market research, functional and non-functional requirements, the best practices I followed, and finally the network/API implementation and test in the graduation report (FR) linked below.<br/>
 
-<a href="{{ site.url }}/assets/PFE_Report.pdf" class="button" download target="_blank"><i class="fa fa-download"></i>&nbsp;Download Report (FR)</a><br/>
-
 <i class="fa fa-key" aria-hidden="true"></i>&nbsp;*Key Words:* Web 2.0, JSON, REST, SQL, MySQL, Photoshop, PHP, Laravel, Git, Social Network, Market Reasearch, SoapUI, PHPStorm, HTML, Javascript, Bootstrap, VPN<br/>
 
 *Website Screenshots*<br/>
