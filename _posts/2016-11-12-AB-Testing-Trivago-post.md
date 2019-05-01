@@ -26,15 +26,13 @@ To get a deeper understanding of the A/B Testing, I highly recommand the online 
 
 # Trivago Case Study
 
-Trivago is in fact the company behind one of the most extensive hotel meta search for travellers. There are three sides to trivago: objective hotel price comparison, helpful independent user reviews and interaction in a vibrant travel community. During a job interview, I understood that they're constantly conducting A/B tests on their websites. As a way to present and analyse the A/B Tests in action, I tried to find and analyze A/B tests on Trivago.co.uk website and suggest some tailored KPIs that can go along with their Web Analytics and Optimization experiments. 
+Trivago is in fact the company behind one of the most extensive hotel meta search for travellers. There are three sides to trivago: objective hotel price comparison, helpful independent user reviews and interaction in a vibrant travel community. Recently, I read that they're constantly conducting A/B tests on their websites. As a way to observe the A/B testing in action, I tried to find ongoing tests on sites like Trivago.co.uk and think of some tailored KPIs that can go along with their Web Analytics experiments. 
 
 ## Find and analyze A/B-tests on our website
 
-At the beginning, I tried to understand the business logic and model of a metasearch engine and price comparison website like Trivago. I came to a conclusion that the main optimization objective will be to increase the monetization of the website current organic traffic by increasing the conversion of website visits into hotel deals click-outs.
+The goal behind Trivago's metasearch engine and price comparison website is to monetize the coming organic traffic by increasing the conversion of visits into hotel deals click-outs. While navigating through “trivago.co.uk” using different browsers, I managed to identify the two following A/B tests. 
 
-While navigating through “trivago.co.uk” using different browsers, I managed to identify the two following A/B tests. 
-
-<b>1-</b> The first test is an aesthetic modification of the hotels’ cells shown as a result of a search. As presented in the figure below, the font color of the highest booking price found for the corresponding hotel has changed from black to red while maintaining the lowest booking price green. A description of the attractive perks provided by the hotel is also added at the bottom.  
+<b>1-</b> The first test is mainly an aesthetic modification of the hotels’ cells shown as a result of a search. As presented in the figure below, the font color of the highest booking price found for the corresponding hotel has changed from black to red while maintaining the lowest booking price green. A description of the attractive perks provided by the hotel is also added at the bottom.  
 
 <figure>
 	<img src="http://i.imgur.com/TwHZMEq.png">

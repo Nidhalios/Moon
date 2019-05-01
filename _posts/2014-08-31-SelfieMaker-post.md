@@ -1,6 +1,6 @@
 ---
 layout: post
-project: true
+project: false
 title: "All-in-one Photography Social iOS App | 2014 Orange Summer Challenge"
 date: 2014-08-31
 excerpt: ""

@@ -35,8 +35,8 @@ Here's a non exhaustive list of my technical skills :
 
 <h3><i class="fa fa-briefcase" aria-hidden="true">&nbsp;&nbsp;&nbsp;WORK EXPERIENCE</i></h3>
 * <a href="http://auxivia.com/fr/" target="_blank" style="text-decoration:none">__AUXIVIA__ </a> Apr 2017 – Present<br/>
-*Data Scientist*<br/>
-*Paris, France*<br/>
+Data Scientist<br/>
+Paris, France<br/>
     * Preprocessing and analyzing IoT/Motion Data (Python, SQL, Shell Scripting)
     * Building and optimizing Machine Learning models (Time Series, Classification, Clustering, Anomaly Detection)
     * Setting up and maintaining Big Data processing/storage infrastructure (Kafka, Cassandra, Ansible)
@@ -44,36 +44,34 @@ Here's a non exhaustive list of my technical skills :
     * Visualizing and communicating practical insights (Jupyter, D3.js, Superset, MS Excel)<br/>
     
 * <a href="https://www.bulldozerinc.com/?lang=en" target="_blank" style="text-decoration:none">__BULLDOZER Inc__ </a> Feb 2015 – May 2015<br/>
-*Web Developer (Intern)*<br/>
-*Tunis, Tunisia*<br/>
+Web Developer (Intern)<br/>
+Tunis, Tunisia<br/>
     * Implemented the backend of a professional social network dedicated to the fashion industry 
     * Architected and built a RESTful API that will be consumed by back-office and mobile applications
     * Learned and practiced the SCRUM agile method<br/>
-<a href="{{ site.url }}{% post_url 2015-05-31-ThimbleFashion-post %}" class="btn zoombtn">Read More</a>
+<!-- <a href="{{ site.url }}{% post_url 2015-05-31-ThimbleFashion-post %}" class="btn zoombtn">Read More</a> -->
             
 * <a href="https://www.orange.tn" target="_blank" style="text-decoration:none">__ORANGE__ </a> Jul 2014 – Aug 2014<br/>
-*Mobile Developer (Intern)*<br/>
-*Tunis, Tunisia*<br/>
+Mobile Developer (Intern)<br/>
+Tunis, Tunisia<br/>
     * Performed a market research on photo editing and sharing mobile apps
     * Led the development of a social all-in-one iOS app offering advanced features like Voice Recognition, Face Detection, and Photo Editing
-    * Contributed to the launching campaign by building the landing page, and helped in shooting a promotional video<br/>
-<a href="{{ site.url }}{% post_url 2014-08-31-SelfieMaker-post %}" class="btn zoombtn">Read More</a>
+    * Contributed to the launching campaign by building the landing page, and helped in shooting a <a href="https://youtu.be/L8haSb9BcWE" target="_blank">promotional video</a><br/>
 	
 * <a href="http://flag-engineering.com" target="_blank" style="text-decoration:none">__FLAG ENGINEERING__ </a> Jun 2013 – Aug 2013<br/>
-*Mobile Developer (Intern)*<br/>
-*Djerba, Tunisia*<br/>
+Mobile Developer (Intern)<br/>
+Djerba, Tunisia<br/>
     * Built an m-commerce iOS app for a retail client providing the main following functionalities: products catalogue, user account setting, cart management, and payment
     * Created a set of PHP/MySQL web services <br/>
-<a href="{{ site.url }}{% post_url 2013-08-31-Koinkoo-post %}" class="btn zoombtn">Read More</a>
 
 <h3><i class="fa fa-graduation-cap" aria-hidden="true">&nbsp;&nbsp;&nbsp;EDUCATION</i></h3>
 * __Bowling Green State University (BGSU)__ Aug 2015 – Aug 2016<br/>
-*Bowling Green, OH - USA*<br/>
+Bowling Green, OH - USA<br/>
 Master of Science, Analytics [GPA: 4/4]<br/>
 Scholarship: Fulbright Foreign Student Program<br/>
 
 * __National Institute of Applied Science and Technology (INSAT)__  Sep 2010 – Jun 2015<br/>
-*Tunis, Tunisia*<br/>
+Tunis, Tunisia<br/>
 National Engineering Diploma, Software Engineering [GPA: 3.65/4]<br/>
 Minor: Management of Information Systems<br/>
 
@@ -94,22 +92,22 @@ Minor: Management of Information Systems<br/>
     * Visualized the insights in Tableau and delivered recommendations for a better safety plan     
 
 <h3><i class="fa fa-lightbulb-o" aria-hidden="true">&nbsp;&nbsp;&nbsp;PROFESSIONAL DEVELOPMENT</i></h3>
-* Data Science Summer School - *Polytechnic School, Paris-Saclay* [Conference] Aug 2017
-* Python for Data Science – *DataCamp* [MOOC] Aug 2016                
-* Big Data on Amazon Web Service Quest – *QwikLabs* [MOOC] Mar 2016 
-* SAS Analytics 2015 - *Las Vegas, USA* [Conference] Oct 2015              
-* Microsoft Technology Associate: Database Administration Fundamentals - *Microsoft* [Certification] Jun 2011	
+* Data Science Summer School - Polytechnic School, Paris-Saclay [Conference] Aug 2017
+* Python for Data Science – DataCamp [MOOC] Aug 2016                
+* Big Data on Amazon Web Service Quest – QwikLabs [MOOC] Mar 2016 
+* SAS Analytics 2015 - Las Vegas, USA [Conference] Oct 2015              
+* Microsoft Technology Associate: Database Administration Fundamentals - Microsoft [Certification] Jun 2011	
 
 <h3><i class="fa fa-users" aria-hidden="true">&nbsp;&nbsp;&nbsp;VOLUNTEER EXPERIENCE</i></h3>
 * __Netlinks CluB - INSAT__ Jan 2012 – Sep 2014<br/>
-*Technical team member*<br/>
-*Tunis, Tunisia*<br/>
+Technical team member<br/>
+Tunis, Tunisia<br/>
     * Led iOS development trainings and projects
     * Participated in organizing national technology events (NetlinksDay 2012,2013 and 2014) 
 
 * __Tunisian Red Crescent__ Sep 2012 – Feb 2015<br/>
-*Volunteer and First-Aider*<br/>
-*Ariana, Tunisia*<br/>
+Volunteer and First-Aider<br/>
+Ariana, Tunisia<br/>
     * Helped in collecting donations for deprived families
     * Participated in road safety campaigns 
 

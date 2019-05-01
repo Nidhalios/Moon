@@ -1,6 +1,6 @@
 ---
 layout: post
-project: true
+project: false
 title: "M-Commerce iOS App | 2013 Summer Internship"
 date: 2013-08-31
 excerpt: ""

@@ -1,6 +1,6 @@
 ---
 layout: post
-project: true
+project: false
 title: "TV shows social plateform | NoSQL Project"
 date: 2014-03-31
 excerpt: ""

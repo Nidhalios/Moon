@@ -1,6 +1,6 @@
 ---
 layout: post
-project: true
+project: false
 title: "Professional Social Network | 2015 Graduation Internship"
 date: 2015-05-31
 excerpt: ""
